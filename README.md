@@ -4,4 +4,6 @@ Run the python first to setup a local server for the html, it will show a localh
 Click the link to get redirected to the html or website, javascript and css will run automatically.
 A simple input field will showup after the html loads, enter a name to check if its in the system.
 A result will appear if a name has been submitted.
+Additional update: added a masterlist linked in the index.
+Masterlist contains student name with student id number, subjects, time and room.
 Note: All names in the system are from the developers group, just to test the functionality of the system.
